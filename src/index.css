@@ -3,3 +3,7 @@ body {
   color: white;
   padding: 1% 2%;
 }
+
+.btn {
+  margin: 5px;
+}
